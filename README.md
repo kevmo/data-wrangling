@@ -1,2 +1,2 @@
 # data-wrangling
-Just country boys and girls getting down on the farm.
+[Black Hat Data Wrangling Intro](http://thoppe.github.io/Presentation-Black-Hack-Data-Wrangling/BHDW_DW_meetup.html)
